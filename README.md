@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/149239206-bcd305a2-5392-4657-9063-aff4e56340df.png">
   <br />
    Jupyter Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/149239241-8cb2b55e-e3a3-4a00-98c8-1655d98ebc68.png">
   <br />
 </p>
 
@@ -46,7 +46,7 @@
 [JupyterLab](https://jupyter.org/install) is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning.
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/149239330-f66c4ccb-31d1-4c17-bbcc-57842dec2ead.png">
   <br />
   JupyterLab example
 </p>
@@ -54,15 +54,15 @@
 [Jupyter Notebook](https://jupyter.org/install) is the original web application for creating and sharing computational documents.
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/149239276-51111cc4-12ab-4336-ab30-ebe9facfd038.png">
   <br />
-  Jupyter Notebook example
+  Jupyter Notebook Python example
 </p>
 
 [JupyterHub](https://jupyter.org/hub) is a multi-user version of the notebook designed for companies, classrooms and research labs.
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/149239324-9bad5fbf-cec5-4c23-a773-37d704e4edc8.png">
   <br />
   JupyterHub Overview
 </p>
@@ -70,7 +70,7 @@
 [Voilà](https://jupyter.org/install) is a tool that helps you communicate insights by transforming notebooks into secure, stand-alone web applications that you can customize and share.
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/149239337-618cb976-4ae6-424e-a670-6fac5ffa02bc.png">
   <br />
   Voilà example
 </p>
