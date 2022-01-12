@@ -13,6 +13,7 @@
   <br />
 </p>
 
+# Table of Contents
 
 1. [Getting Started with Jupyter](https://github.com/mikeroyal/Jupyter-Guide#getting-started-with-jupyter)
 
